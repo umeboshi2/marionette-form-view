@@ -1,5 +1,5 @@
 _ = require 'underscore'
-Marionette = require 'marionette'
+Marionette = require 'backbone.marionette'
 Validation = require 'backbone.validation'
 
 class FormView extends Backbone.Marionette.ItemView
